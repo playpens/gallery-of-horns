@@ -1,0 +1,9 @@
+.content {
+    display:flex;
+    flex-direction: column;
+    font-weight: bold;
+}
+
+.stuff {
+    background: red;
+}
