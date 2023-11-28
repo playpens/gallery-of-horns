@@ -32,7 +32,7 @@ function App() {
       <div style={styles.purple}>
         This is a bunch of stuff
       </div>
-      <div>
+      <div className={aBunchOfStuff.stuff}>
         <a href="https://vitejs.dev" target="_blank">
           <img src={viteLogo} className="logo" alt="Vite logo" />
         </a>
